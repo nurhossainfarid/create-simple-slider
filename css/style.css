@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+}
+.slider {
+    margin: 0px auto;
+    width: 960px;
+    margin-top: 70px;
+}
+.slider img {
+    width: 800px;
+    height: 300px;
+}
